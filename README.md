@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This app was built as part of the curriculum found [here](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
