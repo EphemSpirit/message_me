@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'hirb'
+gem 'faker', '~> 2.15', '>= 2.15.1'
 
 gem 'semantic-ui-sass', '~> 2.4', '>= 2.4.2.0'
 gem 'jquery-rails'
